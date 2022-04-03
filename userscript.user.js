@@ -50,3 +50,5 @@ if (window.top !== window.self) {
     }, false);
 
 }
+// This is now completely identical to Guyacord's version and only exists for convenience.
+// Remember, Kaguya is based as fuck!
